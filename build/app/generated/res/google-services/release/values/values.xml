@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">812614656044-4t1raad1o5ncij53f59euq2g49s79950.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">812614656044</string>
+    <string name="google_api_key" translatable="false">AIzaSyAhrTMjld_NkNdTWO5C_jy-kX-HejuofFQ</string>
+    <string name="google_app_id" translatable="false">1:812614656044:android:06b43136df6ffcf5d9f189</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAhrTMjld_NkNdTWO5C_jy-kX-HejuofFQ</string>
+    <string name="google_storage_bucket" translatable="false">first-aid-chat.appspot.com</string>
+    <string name="project_id" translatable="false">first-aid-chat</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812614656044",
+    "project_id": "first-aid-chat",
+    "storage_bucket": "first-aid-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812614656044:android:06b43136df6ffcf5d9f189",
+        "android_client_info": {
+          "package_name": "com.example.first_aid_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812614656044-4t1raad1o5ncij53f59euq2g49s79950.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhrTMjld_NkNdTWO5C_jy-kX-HejuofFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812614656044-4t1raad1o5ncij53f59euq2g49s79950.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

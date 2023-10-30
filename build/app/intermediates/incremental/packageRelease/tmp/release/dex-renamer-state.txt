@@ -1,0 +1,4 @@
+#Fri May 05 07:27:13 SGT 2023
+base.0=C\:\\Users\\abdul\\Desktop\\first_aid_chat\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
